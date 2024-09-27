@@ -1,0 +1,6 @@
+root@4e942cd033b6:/workspace/asr/megatron.20240606/books3# cat test.in.jsonl | python parse3.py
+/usr/local/lib/python3.10/dist-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+0 78156 1
+
